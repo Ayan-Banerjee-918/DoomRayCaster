@@ -1,5 +1,5 @@
 ## :grey_question: What is this project about?
-This is a basic attempt to recreate the classic Doom levels using Raycasting in OpenGL
+This is a basic attempt to recreate the classic Wolfenstein levels using Raycasting in OpenGL
 
 ## :electron: Project Features
 
